@@ -2,7 +2,6 @@
 
 A minimal and responsive weather web application that lets you check the current weather conditions for any city using the OpenWeatherMap API.
 
-![Weather App Screenshot](screenshot.png)
 
 ##  Features
 
