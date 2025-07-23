@@ -10,7 +10,7 @@ A minimal and responsive weather web application that lets you check the current
 - Uses OpenWeatherMap API  
 - Responsive layout for mobile and desktop  
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML5  
 - CSS3  
