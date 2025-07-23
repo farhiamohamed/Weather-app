@@ -1,7 +1,7 @@
 # Simple Weather App
 
 A minimal and responsive weather web application that lets you check the current weather conditions for any city using the OpenWeatherMap API.
-![WeatherApp](https://user-images.githubusercontent.com/42378118/99897986-fd02dc00-2cc3-11eb-9cac-f5b577bfef40.png)
+
 
 
 ##  Features
